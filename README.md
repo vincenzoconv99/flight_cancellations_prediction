@@ -6,7 +6,7 @@
 </html>
 
 Joint project for the courses: <br>
-«Algorithms for massive datasets»<br>
+«Algorithms for Massive Datasets»<br>
 «Statistical methods for Machine Learning»<br>
 
 This work aims to analyze the <a href="https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018">«Airline Delay and Cancellation Data, 2009 - 2018» </a>.
