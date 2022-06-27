@@ -4,3 +4,8 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
 </html>
+
+Joint project for the courses:
+«Algorithms for massive datasets»
+«Statistical methods for Machine Learning»
+University of Milan, Milan, Italy
