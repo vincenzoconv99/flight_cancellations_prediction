@@ -6,6 +6,7 @@
 <br>
 </html>
 
+
 Joint project for the courses: <br>
 «Algorithms for Massive Datasets»<br>
 «Statistical methods for Machine Learning»<br>
